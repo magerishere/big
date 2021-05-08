@@ -86,3 +86,21 @@ body {
 #dashboard-tab {
     border-bottom: none;
 }
+
+.list-group-item:hover,.checked{
+    background-color: bisque;
+}
+
+.badge{
+    cursor: pointer;
+
+}
+
+.fa-arrow-left {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#message {
+    display: none;
+}
